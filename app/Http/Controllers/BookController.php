@@ -47,10 +47,7 @@ class BookController extends Controller
     }
     public function show(Book $book)
     {
-        // dd($book);
-        // dd($book);
         return BookResource::make($book);
-        // return $book;
     }
 
     public function destroy(Book $book)
