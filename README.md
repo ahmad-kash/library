@@ -1,1 +1,1 @@
-This is jsut for testing
+This is just for testing
